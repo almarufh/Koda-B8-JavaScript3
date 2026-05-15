@@ -9,6 +9,7 @@ untuk menggunakan object function ini panggil variabel object lingkaran dan masu
 `Memanggil Function untun mengambil Nilai dari return`
 
 console.log("Keliling Lingkaran : ", lingkaran.keliling(10));
+
 console.log("Luas Lingkaran : ", lingkaran.luas(10));
 
 `Memanggil Function untuk memuncukan hasil script`;
