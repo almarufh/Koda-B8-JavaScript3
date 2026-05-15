@@ -34,7 +34,7 @@ const lingkaran = {
 
     kelilingLingkaran = 2 * phi * input;
     console.log("Keliling Lingkaran : ", kelilingLingkaran);
-    return luasLingkaran;
+    return kelilingLingkaran;
   },
 };
 
